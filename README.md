@@ -2,14 +2,13 @@
 This is a case study in which I have analyzed fuel eco provided by Environmental Protection Agency.
 
 The things i did are:
+
   1-Manipulating data and fixing more data type issues
   
   2-Evaluating merge types
   
   3-Visualizing data with more advanced tools
   
-  4-Investigate a Dataset
-
 What is Fuel Economy?
 
 Excerpt from Wikipedia page on Fuel Economy in Automobiles:
