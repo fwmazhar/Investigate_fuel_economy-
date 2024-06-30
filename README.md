@@ -76,4 +76,4 @@ Q4: What features are associated with better fuel economy (mpg)?
 
 Q5: For all of the models that were produced in 2008 that are still being produced now, how much has the mpg improved and which vehicle improved the most?
 
-all of the required questions have been answered in visual in the python notebook
+all of the required questions have been answered in the python notebook
